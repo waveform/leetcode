@@ -8,6 +8,7 @@ cult taste from bay area
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C++](./algo/cpp/add_two_numbers.cc) | |
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [C++](./algo/cpp/longest_substring_without_repeating_characters.cc) | |
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [C++](./algo/cpp/longest_palindromic_substring.cc) | Manacher |
-|0006|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [C++](./algo/cpp/reverse_integer.cc) | |
+|0006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [C++](./algo/cpp/zigzag_conversion.cc) | |
+|0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [C++](./algo/cpp/reverse_integer.cc) | |
 
 
