@@ -11,5 +11,6 @@ cult taste from bay area
 |0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [C++](./algo/cpp/longest_palindromic_substring.cc) | Manacher |
 |0006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [C++](./algo/cpp/zigzag_conversion.cc) | |
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [C++](./algo/cpp/reverse_integer.cc) | |
+|0008|[String to Integer (atoi)] (https://leetcode.com/problems/string-to-integer-atoi/description/) | [C++](./algo/cpp/string_to_integer.cc) | |
 
 
