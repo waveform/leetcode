@@ -12,5 +12,5 @@ cult taste from bay area
 |0006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [C++](./algo/cpp/zigzag_conversion.cc) | |
 |0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [C++](./algo/cpp/reverse_integer.cc) | |
 |0008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [C++](./algo/cpp/string_to_integer.cc) | |
-
+|0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [C++](./algo/cpp/palindrome_number.cc) | |
 
