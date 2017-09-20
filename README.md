@@ -16,4 +16,5 @@ cult taste from bay area
 |0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [C++](./algo/cpp/container_with_most_water.cc) | |
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [C++](./algo/cpp/integer_to_roman.cc) | |
 |0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [C++](./algo/cpp/roman_to_integer.cc) | |
+|0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [C++](./algo/cpp/longest_common_prefix.cc) | |
 
