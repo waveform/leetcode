@@ -21,3 +21,4 @@ cult taste from bay area
 |0016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [C++](./algo/cpp/3sum_closest.cc) | |
 |0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [C++](./algo/cpp/letter_combinations_of_a_phone_number.cc) | |
 |0018|[4Sum](https://leetcode.com/problems/4sum/description/) | [C++](./algo/cpp/4sum.cc) | &hearts; Two Pointers |
+|0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](./algo/cpp/remove_nth_node_from_end_of_list.cc) | |
