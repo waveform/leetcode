@@ -22,3 +22,4 @@ cult taste from bay area
 |0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [C++](./algo/cpp/letter_combinations_of_a_phone_number.cc) | |
 |0018|[4Sum](https://leetcode.com/problems/4sum/description/) | [C++](./algo/cpp/4sum.cc) | &hearts; Two Pointers |
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](./algo/cpp/remove_nth_node_from_end_of_list.cc) | |
+|0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [C++](./algo/cpp/valid_parentheses.cc) | |
