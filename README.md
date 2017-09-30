@@ -26,3 +26,4 @@ cult taste from bay area
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [C++](./algo/cpp/valid_parentheses.cc) | |
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C++](./algo/cpp/merge_two_sorted_lists.cc) | |
 |0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [C++](./algo/cpp/generate_parentheses.cc) | DP &hearts; |
+|0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [C++](./algo/cpp/swap_nodes_in_pairs.cc) | |
