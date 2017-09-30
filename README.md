@@ -25,3 +25,4 @@ cult taste from bay area
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](./algo/cpp/remove_nth_node_from_end_of_list.cc) | |
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [C++](./algo/cpp/valid_parentheses.cc) | |
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C++](./algo/cpp/merge_two_sorted_lists.cc) | |
+|0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [C++](./algo/cpp/generate_parentheses.cc) | DP &hearts; |
