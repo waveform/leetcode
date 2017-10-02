@@ -27,5 +27,5 @@ cult taste from bay area
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C++](./algo/cpp/merge_two_sorted_lists.cc) | |
 |0022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [C++](./algo/cpp/generate_parentheses.cc) | DP &hearts; |
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [C++](./algo/cpp/swap_nodes_in_pairs.cc) | |
-|0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [C++](./algo/cpp/reverse_nodes_in_k_group) | |
+|0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [C++](./algo/cpp/reverse_nodes_in_k_group.cc) | |
 
