@@ -29,3 +29,4 @@ cult taste from bay area
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [C++](./algo/cpp/swap_nodes_in_pairs.cc) | |
 |0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [C++](./algo/cpp/reverse_nodes_in_k_group.cc) | |
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [C++](./algo/cpp/remove_duplicates_from_sorted_array.cc) | |
+|0027|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [C++](./algo/cpp/remove_element.cc) | |
