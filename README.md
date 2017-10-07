@@ -31,3 +31,4 @@ cult taste from bay area
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [C++](./algo/cpp/remove_duplicates_from_sorted_array.cc) | |
 |0027|[Remove Element](https://leetcode.com/problems/remove-element/description/) | [C++](./algo/cpp/remove_element.cc) | |
 |0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](./algo/cpp/implement_strstr.cc) | Boyer Moore &hearts; |
+|0031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [C++](./algo/cpp/next_permutation.cc) | |
